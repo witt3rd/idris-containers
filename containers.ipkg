@@ -24,8 +24,6 @@ modules = Data.Tree
         , Data.AVL.Set
         , Data.AVL.Graph
 
-        , Data.RedBlack.Tree
-
         , Data.RoseTree
 
         , Data.Stack
